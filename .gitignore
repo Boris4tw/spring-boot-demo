@@ -1,0 +1,14 @@
+/target/
+.idea/
+
+# 其他常見的忽略項目
+/.mvn/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+
+# 忽略特定的作業系統檔案
+*.DS_Store
+Thumbs.db
